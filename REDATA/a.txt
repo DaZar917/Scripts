@@ -1,0 +1,11 @@
+pocitac
+POCITAC
+[POCITAC]
+.pocitac.
+(pocitac)
+Poci*tac
+Poci\\tac
+"pocitac"
+'pocitac'
+Poc+itac++
+p?ocitac?
